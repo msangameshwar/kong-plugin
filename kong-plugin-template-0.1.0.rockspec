@@ -5,7 +5,7 @@ local rockspec_revision = "1"
 
 local github_account_name = "msangameshwar"
 local github_repo_name = "kong-plugin-template"
-local git_checkout = master
+local git_checkout = dev
 
 
 package = package_name
